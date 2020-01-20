@@ -1,0 +1,2 @@
+module applied_cryptography {
+}
